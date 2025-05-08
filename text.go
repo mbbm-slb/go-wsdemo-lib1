@@ -3,7 +3,7 @@ package lib1
 import (
 	"fmt"
 
-	"mbbm-vas.com/go/wsdemo/lib2"
+	"github.com/mbbm-slb/go-wsdemo-lib2"
 )
 
 func Text() string {
